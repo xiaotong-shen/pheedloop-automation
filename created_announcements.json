@@ -1,0 +1,295 @@
+{
+ "4d90e2919a": {
+  "code": "ANN9DATOJ5ZR1S6",
+  "title": "Residence Programming",
+  "scheduled_for": "2026-08-30 09:45:00",
+  "tags": [
+   98175
+  ]
+ },
+ "498a2bf3b6": {
+  "code": "ANNDB4PXYP5FRKW",
+  "title": "Check In",
+  "scheduled_for": "2026-08-30 09:45:00"
+ },
+ "242aa07aba": {
+  "code": "ANN34SPRJOF00JG",
+  "title": "U of T Campus Tours",
+  "scheduled_for": "2026-08-30 09:45:00"
+ },
+ "ce1dd05ac9": {
+  "code": "ANNEHHSF1Q7DGEB",
+  "title": "Dinner",
+  "scheduled_for": "2026-08-30 17:45:00"
+ },
+ "1cd24bea64": {
+  "code": "ANNELGWISN63ZYN",
+  "title": "Pre-Game Meet-Up",
+  "scheduled_for": "2026-08-30 18:15:00"
+ },
+ "105e37fd16": {
+  "code": "ANNL701UKMNF1UZ",
+  "title": "Varsity Game",
+  "scheduled_for": "2026-08-30 18:45:00"
+ },
+ "350a95bfa9": {
+  "code": "ANNQIWJQ8ID58AN",
+  "title": "Residence Programming",
+  "scheduled_for": "2026-08-30 18:45:00"
+ },
+ "b2ac6beb79": {
+  "code": "ANNG9BDKE2J9X4Y",
+  "title": "Check In & Quad Meet Up",
+  "scheduled_for": "2026-08-31 09:15:00"
+ },
+ "7d78e3d2a2": {
+  "code": "ANN2SOL29BC8WBU",
+  "title": "Opening Ceremony",
+  "scheduled_for": "2026-08-31 10:15:00"
+ },
+ "cbc84889a2": {
+  "code": "ANNE57VAL42PZ3X",
+  "title": "Doors Open",
+  "scheduled_for": "2026-08-31 10:45:00"
+ },
+ "503b7e867f": {
+  "code": "ANNGZSC9Y7SKNZ6",
+  "title": "Invocation",
+  "scheduled_for": "2026-08-31 14:00:00"
+ },
+ "7b243d4374": {
+  "code": "ANNIDNS4OKXF58B",
+  "title": "Reception",
+  "scheduled_for": "2026-08-31 15:45:00"
+ },
+ "b08258ba53": {
+  "code": "ANN4QNCMC2D1TCP",
+  "title": "U of T Ghost Tour",
+  "scheduled_for": "2026-08-31 17:45:00"
+ },
+ "b077727c0a": {
+  "code": "ANNH6ZL43B98NU4",
+  "title": "Battle of the Bands",
+  "scheduled_for": "2026-08-31 17:45:00"
+ },
+ "20d897fec4": {
+  "code": "ANN5ZS5ASDG0LEN",
+  "title": "U of T Scavenger Hunt",
+  "scheduled_for": "2026-09-01 09:45:00"
+ },
+ "e669507e08": {
+  "code": "ANNUW8197Z06A9B",
+  "title": "Campus Guesser",
+  "scheduled_for": "2026-09-01 09:45:00"
+ },
+ "554bfe8b3f": {
+  "code": "ANNOZSVMHBM6RAZ",
+  "title": "Letters to Self",
+  "scheduled_for": "2026-09-01 09:45:00"
+ },
+ "06e140387d": {
+  "code": "ANN4JIXFQ75H201",
+  "title": "Pre U of T",
+  "scheduled_for": "2026-09-01 13:45:00"
+ },
+ "9969ede8a6": {
+  "code": "ANNU78PYWIXD4KM",
+  "title": "Academic Social",
+  "scheduled_for": "2026-09-01 15:45:00"
+ },
+ "0f5188a00f": {
+  "code": "ANNTOG4N10MY2FO",
+  "title": "Night Market",
+  "scheduled_for": "2026-09-01 17:45:00"
+ },
+ "c499212422": {
+  "code": "ANNG9SIKMHW1AWW",
+  "title": "IKEA Trip",
+  "scheduled_for": "2026-09-01 17:45:00"
+ },
+ "c2f2631e51": {
+  "code": "ANNJMEB7ZSJ4UCK",
+  "title": "Consent Presentation",
+  "scheduled_for": "2026-09-02 10:45:00"
+ },
+ "753b1c7ed5": {
+  "code": "ANN69FJU3FRMN2N",
+  "title": "Tri-College Outdoor BBQ",
+  "scheduled_for": "2026-09-02 12:15:00"
+ },
+ "90c47bbd86": {
+  "code": "ANNMOCSJGG6WUAX",
+  "title": "Toronto Tours",
+  "scheduled_for": "2026-09-02 13:15:00"
+ },
+ "b65cb748d7": {
+  "code": "ANN05Z9BII0O983",
+  "title": "Banner Signing",
+  "scheduled_for": "2026-09-02 13:15:00"
+ },
+ "6901869f45": {
+  "code": "ANN60FQF9MXHHJF",
+  "title": "Farm Friends",
+  "scheduled_for": "2026-09-02 13:45:00"
+ },
+ "a9cacae1b4": {
+  "code": "ANNOTYA0C4GZZFR",
+  "title": "Mock Lecture",
+  "scheduled_for": "2026-09-02 16:00:00"
+ },
+ "755ef243e1": {
+  "code": "ANNT876VY5HAOJA",
+  "title": "Mock Lecture",
+  "scheduled_for": "2026-09-02 16:00:00"
+ },
+ "241af82af5": {
+  "code": "ANNJWPIPY09Z9HI",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:15:00"
+ },
+ "a3200b9df1": {
+  "code": "ANNUSL28QRMF3IO",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:15:00"
+ },
+ "b459fcb970": {
+  "code": "ANNI7Z6EUIAXOY1",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:15:00"
+ },
+ "72cd9dd867": {
+  "code": "ANNG63Y5WIXVBTB",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:15:00"
+ },
+ "805e2e5a1e": {
+  "code": "ANNDV9048V03NB2",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:45:00"
+ },
+ "504f823ce9": {
+  "code": "ANNWLNYOQTPSPNV",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:45:00"
+ },
+ "fb7193d0a9": {
+  "code": "ANNE72CPNIEC58R",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:45:00"
+ },
+ "5dd312b2ee": {
+  "code": "ANN7SKBPBH4R2SS",
+  "title": "Tutorial",
+  "scheduled_for": "2026-09-02 17:45:00"
+ },
+ "61b1e00c8e": {
+  "code": "ANNXNIGKWNHOCZU",
+  "title": "Dinner",
+  "scheduled_for": "2026-09-02 18:15:00"
+ },
+ "9eea3b314e": {
+  "code": "ANNI7QBFDMDC2LM",
+  "title": "Art After Dark",
+  "scheduled_for": "2026-09-02 19:45:00"
+ },
+ "bf8e92c7ad": {
+  "code": "ANNIHD6FAQ03EAK",
+  "title": "Movie Night with Vic",
+  "scheduled_for": "2026-09-02 19:45:00"
+ },
+ "52a5fec648": {
+  "code": "ANNS6HL6CID2T8S",
+  "title": "Breakfast",
+  "scheduled_for": "2026-09-03 08:45:00"
+ },
+ "4ec0056b7d": {
+  "code": "ANNWWCDXPSL592U",
+  "title": "Pep Rally",
+  "scheduled_for": "2026-09-03 09:15:00"
+ },
+ "945009e101": {
+  "code": "ANNEWXT4HN1OP9K",
+  "title": "UTSU Cheer Off",
+  "scheduled_for": "2026-09-03 10:45:00"
+ },
+ "319ebdf692": {
+  "code": "ANNZABFZ9NSMC56",
+  "title": "Jupiter Jeopardy",
+  "scheduled_for": "2026-09-03 10:45:00"
+ },
+ "dc844d7a36": {
+  "code": "ANNGNDN02MGSS28",
+  "title": "UTSU Clubs Fair",
+  "scheduled_for": "2026-09-03 12:15:00"
+ },
+ "a7352cc312": {
+  "code": "ANNS01UO7QBGS01",
+  "title": "Board Games at Kelly",
+  "scheduled_for": "2026-09-03 13:15:00"
+ },
+ "d96bff4b52": {
+  "code": "ANNVQ54JLPKCE5T",
+  "title": "Game and Chill",
+  "scheduled_for": "2026-09-03 13:15:00"
+ },
+ "8e293e5150": {
+  "code": "ANNAS5JXGN37UCD",
+  "title": "Snack Outreach with Campus Ministry",
+  "scheduled_for": "2026-09-03 13:15:00"
+ },
+ "2d5d0ceebc": {
+  "code": "ANNWB69DZMW9I9M",
+  "title": "Project Basil's Homecoming",
+  "scheduled_for": "2026-09-03 13:45:00"
+ },
+ "2438b0d5e4": {
+  "code": "ANNLF9RRJTHSXVD",
+  "title": "Bed Race Tryouts",
+  "scheduled_for": "2026-09-03 16:15:00"
+ },
+ "32b262b6f2": {
+  "code": "ANNH73E9PEP5QP8",
+  "title": "Dinner",
+  "scheduled_for": "2026-09-03 17:45:00"
+ },
+ "f40b51933a": {
+  "code": "ANNB3MOB3CEEXYX",
+  "title": "Kelly's Korner",
+  "scheduled_for": "2026-09-03 18:45:00"
+ },
+ "df5565a05a": {
+  "code": "ANNHPGAFYPWWP8T",
+  "title": "CIE International Undergraduate Student Orientation",
+  "scheduled_for": "2026-09-04 09:15:00"
+ },
+ "8cc21d0dd9": {
+  "code": "ANN87Y7KVJZJGPQ",
+  "title": "Brunch at Brennan",
+  "scheduled_for": "2026-09-04 10:45:00"
+ },
+ "43845f8988": {
+  "code": "ANNWMS8PL165BT6",
+  "title": "Galatic Resource Hub",
+  "scheduled_for": "2026-09-04 11:15:00"
+ },
+ "b957ad8fbb": {
+  "code": "ANN25K6WT76T3ML",
+  "title": "Get Formal Ready Wellness Studio",
+  "scheduled_for": "2026-09-04 14:45:00"
+ },
+ "f9d49c4b62": {
+  "code": "ANN0TQGFDPT0I05",
+  "title": "Closing Ceremony",
+  "scheduled_for": "2026-09-04 16:45:00"
+ },
+ "b753243a10": {
+  "code": "ANNUJLWSABO3HG1",
+  "title": "Formal Dinner",
+  "scheduled_for": "2026-09-04 17:45:00"
+ },
+ "4f9c987998": {
+  "code": "ANNW9PGTDFJ5W49",
+  "title": "Tri-College Formal",
+  "scheduled_for": "2026-09-04 19:45:00"
+ }
+}
