@@ -1,18 +1,4 @@
-# PheedLoop Automation Script  (SMC Orientation 2026)
-
-Scripts that automate PheedLoop for one event: **SMC Orientation 2026**
-(org `ORG2J3207CTQTEFVBT`, event `EVEMFFRKMCZTH`), because PheedLoop's
-whitelabel app builder has no bulk-upload for announcements.
-
-## Normal workflow (during orientation week)
-
-1. The anyone can edit `notifications.xlsx` (sheet "All Notifications") —
-   add/change rows for announcements: date, notify time, title,
-   description, location, etc.
-2. Notify Xiaotong of the change and I'll run it on my end (should always be an option, but if i'm not here see **[Backup tutorial](#backup-tutorial--if-xiaotong-is-unavailable)** below , you can also try for yourself for fun if you want after reading the doc!)
-3. I'll run a dry run to review, then `--run` to actually schedule
-   the announcements in PheedLoop. See [Commands](#commands) below to try for yourself:
-
+# PheedLoop Automation Script
 
 
 ## Files in this folder
@@ -20,16 +6,12 @@ whitelabel app builder has no bulk-upload for announcements.
 | File | What it is |
 |---|---|
 | `announcement_scheduler.py` | The script. Bulk-creates scheduled PheedLoop announcements from `notifications.xlsx`. |
-| `notifications.xlsx` | **Live working spreadsheet** — sheet "All Notifications" is what gets uploaded. This is the file the committee edits. |
+| `notifications.xlsx` | **Live working spreadsheet** — sheet "All Notifications" is what gets uploaded|
 | `announcement_template.xlsx` | Blank starter template (with an Instructions sheet) if you ever need to rebuild the spreadsheet from scratch. |
-| `created_announcements.json` | **Dedup ledger — do not delete.** Every announcement the script has created gets recorded here so re-running `--run` never creates duplicates. |
-| `.env` | Real API credentials (org code, event code, API key/secret). **Never commit this** — it's git-ignored. |
+| `created_announcements.json` | Every announcement the script has created gets recorded here so re-running `--run` never creates duplicates. |
+| `.env` | Real API credentials (org code, event code, API key/secret). git-ignored. |
 | `.env.example` | Template showing which variables `.env` needs. |
 | `requirements.txt` | Python deps: `requests`, `openpyxl`, `python-dotenv`. |
-
-btw i will share api keys seperately on teams kjust be safe, bc once it's committed it's in git history forever (recoverable even after you delete it later), and GitHub scans public repos for exposed keys within minutes. Whoever has our `API_KEY`/`API_SECRET` can hit the same endpoints this script does — no PheedLoop login needed — so they could blast a fake announcement to all attendees or delete/edit real ones. `.env.example` (field names only) is safe to commit; `.env` (real values) never is.
-
-so even though the event isn't super high stakes,still  im scared of putting the keys on github ahaha
 
 ## Commands
 
